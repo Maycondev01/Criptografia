@@ -1,0 +1,52 @@
+img {
+    float: left;
+    width: 350px;
+    height: 400px;
+    background-size: cover;
+}
+
+h1 {
+    border-bottom-style: inset;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.botoes {
+    display: flex;
+    padding: 10px;
+}
+
+.btC {
+    padding: 5px;
+    margin: 5px;
+    border-radius: 15px;
+    background-color: green;
+    color: #fff;
+    cursor: pointer;
+}
+
+
+.btD {
+    padding: 5px;
+    margin: 5px;
+    border-radius: 15px;
+    background-color: blue;
+    color: #fff;
+    cursor: pointer;
+
+}
+
+.btL {
+    padding: 5px;
+    margin: 5px;
+    border-radius: 15px;
+    background-color: red;
+    color: #fff;
+    cursor: pointer;
+
+}
